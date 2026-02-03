@@ -9,3 +9,12 @@ Além das melhorias internas, houve ajustes na experiência do usuário. A narra
 O processo de revisão também fortaleceu a compreensão dos conceitos estudados, como controle de fluxo, manipulação de DOM, estruturas condicionais, laços de repetição e controle de estado. Cada ajuste realizado não foi apenas uma correção pontual, mas parte de uma consolidação do aprendizado aplicado na prática.
 
 A evolução do projeto representa não apenas melhorias visuais ou funcionais, mas principalmente crescimento técnico. O jogo passou de uma estrutura básica e experimental para uma versão mais organizada, consistente e alinhada com boas práticas de desenvolvimento, demonstrando avanço real na compreensão da lógica e da construção de aplicações interativas.
+
+Acesse esse link para ver o jogo:
+
+https://sophiafonsecab29-bit.github.io/JOGOecoquizPOO/
+
+Feito por:
+
+SOPHIA VITORIA FONSECA BORGES
+
