@@ -1,0 +1,11 @@
+Ao longo do desenvolvimento do Ecos da Floresta, o jogo passou por um processo contínuo de evolução estrutural, lógica e visual. A versão inicial tinha como foco principal validar as mecânicas básicas e garantir que a estrutura fundamental funcionasse corretamente. Nesse estágio, o objetivo era fazer o sistema responder às interações do usuário e estabelecer o fluxo principal do jogo.
+
+Com o avanço das aulas e o aprofundamento nos conteúdos de lógica de programação e organização de código, o projeto começou a ser reestruturado. Foram feitas melhorias significativas na separação de responsabilidades dentro do código, reduzindo repetições desnecessárias e tornando as funções mais específicas e organizadas. Variáveis passaram a ser melhor definidas, evitando conflitos e melhorando o controle do estado do jogo.
+
+A aplicação mais consistente dos princípios de Programação Orientada a Objetos também contribuiu para essa evolução. Elementos que antes estavam dispersos na lógica passaram a ser organizados em estruturas mais claras, facilitando a leitura, manutenção e futura expansão do sistema. O código deixou de ser apenas funcional para se tornar mais estruturado.
+
+Além das melhorias internas, houve ajustes na experiência do usuário. A narrativa foi refinada para tornar os objetivos mais claros, a organização visual foi aprimorada e as interações foram ajustadas para que o jogo respondesse de maneira mais fluida e coerente. Testes constantes permitiram identificar falhas de lógica, corrigir comportamentos inesperados e melhorar o desempenho geral.
+
+O processo de revisão também fortaleceu a compreensão dos conceitos estudados, como controle de fluxo, manipulação de DOM, estruturas condicionais, laços de repetição e controle de estado. Cada ajuste realizado não foi apenas uma correção pontual, mas parte de uma consolidação do aprendizado aplicado na prática.
+
+A evolução do projeto representa não apenas melhorias visuais ou funcionais, mas principalmente crescimento técnico. O jogo passou de uma estrutura básica e experimental para uma versão mais organizada, consistente e alinhada com boas práticas de desenvolvimento, demonstrando avanço real na compreensão da lógica e da construção de aplicações interativas.
